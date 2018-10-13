@@ -1,0 +1,97 @@
+body {
+  font-family: 'Mountains of Christmas', cursive;
+  background-image: url('bg.jpg');
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+}
+
+#spruch
+{
+	position: absolute;
+	width: 50%;
+	left: 25%;
+	top: 10%;
+	font-size: 48px;
+	z-index: 100;
+	border: dotted 2px;
+	background: rgba(255,255,255,0.8);
+	text-align: center;
+}
+
+.day {
+  position: relative;
+  width: 16.6%;
+  height: 25%;
+  float: left;
+  border: 5px solid #fff;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box; }
+  .day .tuerchen {
+    cursor: pointer;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: brown; }
+    .day .tuerchen p {
+      font-size: 50px;
+      color: white;
+      font-weight: bold;
+      position: absolute;
+      top: 50%;
+      margin-top: -0.5em;
+      width: 100%;
+      text-align: center;
+      -webkit-transition: opacity 2s ease-in-out;
+      -moz-transition: opacity 2s ease-in-out;
+      -ms-transition: opacity 2s ease-in-out;
+      -o-transition: opacity 2s ease-in-out;
+      transition: opacity 2s ease-in-out; }
+  .day .opendoor {
+    -webkit-animation: opendoor 2s normal forwards ease-in-out;
+    animation: opendoor 2s normal forwards ease-in-out; }
+    .day .opendoor p {
+      opacity: 0; }
+  .day .content {
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    border: 3px solid #765440; }
+
+@-webkit-keyframes opendoor {
+  0% {
+    -webkit-transform: perspective(1500) rotateY(0deg);
+    -webkit-transform-origin: 0% 50%; }
+  100% {
+    -webkit-transform: perspective(1500) rotateY(-92deg);
+    -webkit-transform-origin: 0% 50%; } }
+@-moz-keyframes opendoor {
+  0% {
+    width: 100%; }
+  100% {
+    width: 0; } }
+@-o-keyframes opendoor {
+  0% {
+    width: 100%; }
+  100% {
+    width: 0; } }
+@keyframes opendoor {
+  0% {
+    -webkit-transform: perspective(1500) rotateY(0deg);
+    transform: perspective(1500) rotateY(0deg);
+    -webkit-transform-origin: 0% 50%;
+    transform-origin: 0% 50%; }
+  100% {
+    -webkit-transform: perspective(1500) rotateY(-92deg);
+    transform: perspective(1500) rotateY(-92deg);
+    -webkit-transform-origin: 0% 50%;
+    transform-origin: 0% 50%; } }
+
+/*# sourceMappingURL=style.css.map */
