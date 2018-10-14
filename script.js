@@ -17,6 +17,33 @@ var content=[];
 content[1] = "Lass dich überraschen, was noch alles kommt! &#128562;";
 content[2] = "Ist heute nicht der erste Advent?<br />Frag mich doch mal ob ich etwas für dich habe";
 
+content=[
+"Lass dich überraschen, was noch alles kommt! &#128562;",
+	"Ist heute nicht der erste Advent?<br />Frag mich doch mal ob ich etwas für dich habe",
+"Liebe, was du lieben willst",
+"Tanze dein Leben",
+"Du bist wundervoll.",
+	"Heute gibt es eine Überraschung! &#128534;",
+"Ruf jemanden an, den du magst",
+"Liebe beginnt immer bei dir",
+	"Vielleich brauchst du das noch? &#128521;",
+"Umarma heute einen Baum oder deinen Freund",
+"Du bist du",
+"Gönne dir Auszeiten!",
+"Du bist toll!",
+"Du bist einzigartig!",
+"Fühle dich geliebt",
+	"Jetzt sind wir schon seit über 4 Monaten ein Paar &#128151;",
+"Vertraue dir selbst",
+"Fahr einmal im Jahr ans Meer",
+"Entspanne dich",
+"Die Gegenwart ist der Baustein der Zukunft",
+"Glaube an das was sich für dich richtig anfühlt",
+"Erstrebe womit du glücklich wirst",
+	"Bald ist Weihnachten. Lass dich verwöhnen",
+	"Geschenke gibt es erst heute abend &#128513;"
+]
+
 function shuffle(a) {
     var j, x, i;
     for (i = a.length - 1; i > 0; i--) {
