@@ -18,12 +18,13 @@ content[1] = "Lass dich überraschen, was noch alles kommt! &#128562;";
 content[2] = "Ist heute nicht der erste Advent?<br />Frag mich doch mal ob ich etwas für dich habe";
 
 content=[
+"",
 "Lass dich überraschen, was noch alles kommt! &#128562;",
 	"Ist heute nicht der erste Advent?<br />Frag mich doch mal ob ich etwas für dich habe",
 "Liebe, was du lieben willst",
 "Tanze dein Leben",
 "Du bist wundervoll.",
-	"Heute gibt es eine Überraschung! &#128534;",
+	"Heute gibt es eine Überraschung! &#128521;",
 "Ruf jemanden an, den du magst",
 "Liebe beginnt immer bei dir",
 	"Vielleich brauchst du das noch? &#128521;",
