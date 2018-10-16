@@ -27,7 +27,7 @@ content=[
 "Ruf jemanden an, den du magst",
 "Liebe beginnt immer bei dir",
 	"Vielleich brauchst du das noch? &#128521;",
-"Umarma heute einen Baum oder deinen Freund",
+"Umarme heute einen Baum oder deinen Freund",
 "Du bist du",
 "Gönne dir Auszeiten!",
 "Du bist toll!",
