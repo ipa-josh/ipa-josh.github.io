@@ -27,7 +27,7 @@ content=[
 	"Heute gibt es eine Überraschung! &#128521;",
 "Ruf jemanden an, den du magst",
 "Liebe beginnt immer bei dir",
-	"Vielleich brauchst du das noch? &#128521;",
+	"Bald ist Weihnachten. Lass dich verwöhnen",
 "Umarme heute einen Baum oder deinen Freund",
 "Du bist du",
 "Gönne dir Auszeiten!",
@@ -41,7 +41,7 @@ content=[
 "Die Gegenwart ist der Baustein der Zukunft",
 "Glaube an das was sich für dich richtig anfühlt",
 "Erstrebe womit du glücklich wirst",
-	"Bald ist Weihnachten. Lass dich verwöhnen",
+"Vielleich brauchst du das noch? &#128521;",
 	"Geschenke gibt es erst heute abend &#128513;"
 ]
 
