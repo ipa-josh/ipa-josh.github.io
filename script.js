@@ -40,7 +40,7 @@ content=[
 "Entspanne dich",
 "Die Gegenwart ist der Baustein der Zukunft",
 "Glaube an das was sich für dich richtig anfühlt",
-"Erstrebe womit du glücklich wirst",
+"Genieße den Augenblick (und heute auch gerne die Aussicht)", //"Erstrebe womit du glücklich wirst",
 "Vielleich brauchst du das noch? &#128521;",
 	"Geschenke gibt es erst heute abend &#128513;"
 ]
