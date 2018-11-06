@@ -9,10 +9,10 @@ var content=[];
 /*
 2: 1. Advent
 6: Nikolaus
-9: 2. Advent
-16: 3. Advent
-23: 4. Advent
-24: Heilig Abend
+9: 2. Advent  Entspannungstee u. -bad
+16: 3. Advent Schlüsselanhänger
+23: 4. Advent (Schlüssel)
+24: Heilig Abend (Geschenke)
 */
 content[1] = "Lass dich überraschen, was noch alles kommt! &#128562;";
 content[2] = "Ist heute nicht der erste Advent?<br />Frag mich doch mal ob ich etwas für dich habe";
@@ -24,7 +24,7 @@ content=[
 "Liebe, was du lieben willst",
 "Tanze dein Leben",
 "Du bist wundervoll.",
-	"Heute gibt es eine Überraschung! &#128521;",
+	"Heute gibt es eine kleine Überraschung! &#128521;",
 "Ruf jemanden an, den du magst",
 "Liebe beginnt immer bei dir",
 	"Bald ist Weihnachten. Lass dich verwöhnen",
@@ -41,7 +41,7 @@ content=[
 "Die Gegenwart ist der Baustein der Zukunft",
 "Glaube an das was sich für dich richtig anfühlt",
 "Genieße den Augenblick (und heute auch gerne die Aussicht)", //"Erstrebe womit du glücklich wirst",
-"Vielleich brauchst du das noch? &#128521;",
+"Vielleicht brauchst du das noch? &#128521;",
 	"Geschenke gibt es erst heute abend &#128513;"
 ]
 
