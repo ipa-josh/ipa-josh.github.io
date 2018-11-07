@@ -7,10 +7,16 @@ for(var i=1; i<=n; ++i)
 var content=[];
 
 /*
-2: 1. Advent
-6: Nikolaus
-9: 2. Advent  Entspannungstee u. -bad
-16: 3. Advent Schlüsselanhänger
+2: 1. Advent (Fitness Kekse: https://www.chefkoch.de/rezepte/2952191447509073/Fitness-Eiweiss-Schoko-Cookies.html)
+6: Nikolaus (Herz mit Aurorafilme/USB Stick
+https://www.zdf.de/dokumentation/dokumentation-sonstige/jagd-nach-dem-himmelsfeuer-dem-104.html
+https://www.youtube.com/watch?v=Upe3SVaB270
+https://www.youtube.com/watch?v=VQ0drnZpkoc
+https://www.arte.tv/de/videos/052707-003-F/expedition-sternenhimmel/
+https://www.arte.tv/de/videos/052707-004-F/expedition-sternenhimmel/
+)
+9: 2. Advent  (Entspannungsbad)
+16: 3. Advent (Schlüsselanhänger)
 23: 4. Advent (Schlüssel)
 24: Heilig Abend (Geschenke)
 */
