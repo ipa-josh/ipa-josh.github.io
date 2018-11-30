@@ -37,7 +37,7 @@ content=[
 "Umarme heute einen Baum oder deinen Freund<br><br><i>Eine Umarmung von dir ist nicht mit Gold aufzwägen.</i>",
 "Du bist du<br><br><i>Die Welt ist voller Wunder Sie ist Liebe und Magie und sie ist im hier und jetzt.</i>",
 "Gönne dir Auszeiten!<br><br><i>Muße, nicht Arbeit, ist das Ziel des Menschen.</i>",
-"Du bist toll!<br><br><i>Du musst, dass niemanden beweisen.</i>",
+"Du bist toll!<br><br><i>Du musst, das niemanden beweisen.</i>",
 "Du bist einzigartig!<br><br><i>Eben eine ganz besondere Person für mich.</i>",
 "Fühle dich geliebt<br><br><i>... von dir selbst, all deinen Mitmenschen, Verwandthen, Freunden, Tieren und dem Rest der Welt.</i>",
 	"Jetzt sind wir schon seit über 4 Monaten ein Paar &#128151;<br><br><i></i>",
