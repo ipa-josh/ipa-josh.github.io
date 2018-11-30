@@ -25,10 +25,10 @@ content[2] = "Ist heute nicht der erste Advent?<br />Frag mich doch mal ob ich e
 
 content=[
 "",
-"Lass dich überraschen, was noch alles kommt! &#128562;",
+"Lass dich überraschen, was noch alles kommt! &#128562;<br><br><i>Der schlimmste Weg, den man wählen kann, ist der, keinen zu wählen.</i>",
 	"Ist heute nicht der erste Advent?<br />Frag mich doch mal ob ich etwas für dich habe",
-"Liebe, was du lieben willst",
-"Tanze dein Leben",
+"Liebe, was du lieben willst<br><br><i>Wer nichts waget, der darf nichts hoffen.</i>",
+"Tanze dein Leben<br><br><i>... und ich üb noch fleißig.</i>",
 "Du bist wundervoll.",
 	"Heute gibt es eine kleine Überraschung! &#128521;<br />(Schau in deinen Kleiderschrank)",
 "Ruf jemanden an, den du magst",
