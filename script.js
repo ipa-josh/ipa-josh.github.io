@@ -44,7 +44,7 @@ content=[
 "Vertraue dir selbst<br><br><i>Den größten Fehler, den man machen kann, ist, immer Angst zu haben, einen Fehler zu machen.</i>",
 "Fahre einmal im Jahr ans Meer<br><br><i>Vielleicht fahren wir nächstes Jahr auch öfters ans Meer?</i>",
 "Entspanne dich<br><br><i>Die Welt gehört dem, der sie geniest.</i>",
-"Die Gegenwart ist der Baustein der Zukunft<br><br><i>Ich möchte kein perfektes Leben, sond ein glückliches mit dir!</i>",
+"Die Gegenwart ist der Baustein der Zukunft<br><br><i>Ich möchte kein perfektes Leben, sondern ein glückliches mit dir!</i>",
 "Glaube an das was sich für dich richtig anfühlt<br><br><i>Wenn man sich selbst zu einem niedrigen Preis verkauft, wird niemand anderes diesen Preis erhöhen</i>",
 "Genieße den Augenblick (und heute auch gerne die Aussicht)", //"Erstrebe womit du glücklich wirst",
 "Vielleicht brauchst du das noch? &#128521;",
