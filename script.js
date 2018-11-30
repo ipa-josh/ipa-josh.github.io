@@ -72,7 +72,9 @@ function openDoor(t){
 	if(today>=day) $("#"+t).toggleClass("opendoor")
 	else alert("meep");
 
-	$("#spruch").html(content[day]).fadeIn(3000, function() {$("#"+t).hide();} );
+	$("#spruch").html(content[day]).fadeOut(1, function() {
+		$("#spruch").html(content[day]).fadeIn(3000, function() {$("#"+t).hide();} );
+	});
 }
 
 function checkTime(t){
