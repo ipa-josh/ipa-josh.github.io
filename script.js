@@ -40,7 +40,7 @@ content=[
 "Du bist toll!<br><br><i>Du musst, das niemanden beweisen.</i>",
 "Du bist einzigartig!<br><br><i>Eben eine ganz besondere Person für mich.</i>",
 "Fühle dich geliebt<br><br><i>... von dir selbst, all deinen Mitmenschen, Verwandthen, Freunden, Tieren und dem Rest der Welt.</i>",
-	"Jetzt sind wir schon seit über 4 Monaten ein Paar &#128151;<br><br><i></i>",
+	"Jetzt sind wir schon seit über 4 Monaten ein Paar &#128151;<br><br><i>Meine Träume, mein Leben, das möchte ich mit dir teilen und allzeit an deiner Seite verweilen. Ich will den Alltag mit dir bestreiten und nie wieder von deiner Seite weichen.</i>",
 "Vertraue dir selbst<br><br><i>Den größten Fehler, den man machen kann, ist, immer Angst zu haben, einen Fehler zu machen.</i>",
 "Fahre einmal im Jahr ans Meer<br><br><i>Vielleicht fahren wir nächstes Jahr auch öfters ans Meer?</i>",
 "Entspanne dich<br><br><i>Die Welt gehört dem, der sie geniest.</i>",
