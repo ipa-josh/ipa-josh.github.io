@@ -30,7 +30,7 @@ content=[
 "Liebe, was du lieben willst<br><br><i>Es gibt nur einen richtigen Weg: deinen Eigenen!</i>",
 "Tanze dein Leben<br><br><i>... und ich üb noch fleißig.</i>",
 "Du bist wundervoll.<br><br><i>Das Sonnenlicht tanzt mit leichtfüßigen Schritten über Berg und Tal.</i>",
-	"Heute gibt es eine kleine Überraschung! &#128521;<br />(Schau in deinen Kleiderschrank)",
+	"Sag jetzt nicht, du bringst mir nichts,<br />Du grosser Mann mit weissem Haar!<br />Sonst werd ich wirklich ärgerlich<br />Und zieh an deinem langen Bart.<br><br><i>Viel Erfolg bei deiner Ex! Ich denk an dich.</i>&#9825;",
 "Ruf jemanden an, den du magst<br><br><i>Die Sprache ist die Kleidung der Gedanken.</i>",
 "Liebe beginnt immer bei dir<br><br><i>Die Liebe zu uns selbst erweckt das strahlende Licht in uns und gibt uns die Kraft dieses Licht zu leben.</i>",
 	"Bald ist Weihnachten. Lass dich verwöhnen.<br />Das Geschenk kannst du an deinem TV benutzen.",
